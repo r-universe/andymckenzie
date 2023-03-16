@@ -1,0 +1,14 @@
+[
+  {
+    "package": "bayesbio",
+    "oncran": true
+  },
+  {
+    "package": "BRETIGEA",
+    "oncran": true
+  },
+  {
+    "package": "DGCA",
+    "oncran": true
+  }
+]

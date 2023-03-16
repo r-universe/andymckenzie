@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bayesbio"]
+	path = bayesbio
+	url = https://github.com/andymckenzie/bayesbio
+	shallow = true
+	registered = true
+[submodule "BRETIGEA"]
+	path = BRETIGEA
+	url = https://github.com/andymckenzie/bretigea
+	shallow = true
+	registered = true
+[submodule "DGCA"]
+	path = DGCA
+	url = https://github.com/andymckenzie/dgca
+	shallow = true
+	registered = true
