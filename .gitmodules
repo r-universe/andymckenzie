@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bayesbio"]
-	path = bayesbio
-	url = https://github.com/andymckenzie/bayesbio
 [submodule "BRETIGEA"]
 	path = BRETIGEA
 	url = https://github.com/andymckenzie/bretigea
 [submodule "DGCA"]
 	path = DGCA
 	url = https://github.com/andymckenzie/dgca
+[submodule "bayesbio"]
+	path = bayesbio
+	url = https://github.com/andymckenzie/bayesbio
